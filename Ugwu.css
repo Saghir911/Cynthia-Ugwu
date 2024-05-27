@@ -15,7 +15,7 @@ body {
 
 @font-face {
     font-family: sans;
-    src: url(GeneralSans-Medium.otf);
+    src: url(/Font/GeneralSans-Medium.otf);
 }
 
 #minicircle {
